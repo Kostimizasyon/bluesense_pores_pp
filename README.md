@@ -1,3 +1,3 @@
-# Bluesense Pore PP
+# Bluesense Pores
 
-A preprocessing repo that i made for the preprocessing images for our pore segmentation / detection model @ blusense.
+The repo for preprocessing and segmentation for pores @ bluesense
